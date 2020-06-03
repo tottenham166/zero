@@ -1,0 +1,80 @@
+{margin:0;padding:0}
+
+/* Calling Fonts */
+
+@font-face{
+	
+	font-family:"Play-Regular";
+	
+	
+	src: url("font/Play-Regular.eot") format("eot"),
+	
+	url("font/Play-Regular.woff") format("woff"),
+	
+	
+	
+	url("font/Play-Regular.ttf") format("truetype"),
+	
+	
+	url("/font/Play-Regular.svg") format("svg");
+	
+	
+}
+
+/* Calling Fonts */
+
+
+
+.current{ color:teal; }
+
+.fix{ overflow:hidden;}
+
+
+.container{ max-width:960px;}
+
+.one{
+	background:#eee;
+	
+}
+
+
+.two{
+	
+	background:(images/bg.home.png) no-repaeat;
+}
+
+
+.menu ul li a{}
+.menu ul li a:hover{}
+
+	p{
+		
+		text-align:justify;
+		font-size:14px;
+	}
+	
+	a{
+		display:block;
+		color:#000;
+		text-decoration:none;
+		padding:7px;
+		
+	}
+	
+	a:hover{
+		
+		text-decoration:none;
+	
+		
+	}
+	
+	
+	.social a,img{ display:inline;}
+	
+	
+	
+	body{
+		font-family:Play-Regular;
+	}
+	
+		.searchbar input{ border:0; padding:0; margin:0}
